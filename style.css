@@ -1,0 +1,58 @@
+.heading {
+  text-align: center;
+}
+
+.img-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10vh;
+}
+
+.selection {
+  width: 20vw;
+  margin: 5px;
+}
+
+.image {
+  width: 20vw;
+  margin: 5px;
+  object-fit: cover;
+}
+
+.selection:hover {
+  opacity: 85%;
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.selection:active {
+  scale: 1.1;
+  opacity: 100%;
+}
+
+.score-section {
+  display: flex;
+  justify-content: center;
+}
+
+.score-box {
+  /* border: 2px solid rgb(144, 205, 255);
+  height: 100px;
+  width: 100px; */
+  margin: 30px 10px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.result-section {
+  text-align: center;
+  background-color: rgb(11, 11, 70);
+  line-height: 3rem;
+  height: 3rem;
+  width: 500px;
+  border-radius: 10px;
+  margin: auto;
+  color: white;
+  font-size: 1.5rem;
+}
