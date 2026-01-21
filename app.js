@@ -70,8 +70,3 @@ function displayRes(userWin, compChoice, userChoice){
         }
     }  
 }
-
-//Handle Score
-let handleScore = () => {
-
-}
