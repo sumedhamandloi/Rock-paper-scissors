@@ -32,7 +32,7 @@ A fully interactive **Rock Paper Scissors** game built using **HTML, CSS, and Ja
 
 ## 📸 Screenshots
 
-![Game Screenshot](images\gameplay.png)
+![Game Screenshot](./images/gameplay.png)
 
 ## 🧩 Code Snippet
 
